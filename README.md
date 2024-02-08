@@ -1,4 +1,4 @@
-# GoEmotions Text Classification
+# Go Emotions Text Classification
 
 This repo contains the code for fine-tuning a RoBERTa Large language model on the GoEmotions dataset.
 
